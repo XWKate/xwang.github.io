@@ -30,33 +30,20 @@ I received my PhD degree in 2023.12 from Northwest University, under the supervi
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIoT</div><img src='images/iot.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2025</div>< img src='images/ubi25.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Rf-CM: Cross-modal Framework for Rf-enabled Few-shot Human Activity Recognition**](https://xwkate.github.io/docs/ubi23-RF-CM.pdf)
+ [**SpikeTouch: Optimizing Spike Neural Networks for Tactile Perception**]
  
-**Xuan Wang**, Tong Liu, Chao Feng, Dingyi Fang, Xiaojiang Chen
+Xuerong Zhao, Xuan Wang, Jian Wu, **Chao Feng**, Dingyi Fang, Xiaojiang Chen, Zheng Wang
 
-**ACM Ubicomp 2023 (CCF A)**
+**ACM Ubicomp 2025 (CCF A)**
 
+- Spike Neural Networks.
+- Tactile Perception.
+</div>
+</div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIoT</div><img src='images/iot.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- [**mmFinger: Talk to Smart Devices with Finger Tapping Gesture**](https://xwkate.github.io/docs/TMC24.pdf)
- 
- **Xuan Wang**, Xuerong Zhao, Chao Feng, Dingyi Fang, Xiaojiang Chen
-
-**IEEE TMC 2024 (CCF A)**
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIoT</div><img src='images/iot.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**AllSpark: Enabling Long-Range Backscatter for Vehicle-to-Infrastructure Communication**](https://xwkate.github.io/docs/iot-allspark.pdf)
-
-**Xuan Wang**, Xin Kou, Haoyu Li, Fuwei Wang , Dingyi Fang, Yunfei Ma, and Xiaojiang Chen
 
 
 # 🎖 Honors and Awards

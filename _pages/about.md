@@ -31,8 +31,11 @@ I received my PhD degree in 2023.12 from Northwest University, under the supervi
 
 
 
+- mmWave Sensing.
+</div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2023</div>< img src='images/ubi23.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp2023</div>< img src='images/ubi23.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Rf-CM: Cross-modal Framework for Rf-enabled Few-shot Human Activity Recognition**](https://xwang.github.io/docs/ubi23-RF-CM.pdf)
@@ -41,11 +44,9 @@ Xuan Wang, Tong Liu, **Chao Feng**, Dingyi Fang, Xiaojiang Chen
 
 **ACM Ubicomp 2023 (CCF A)**
 
-- mmWave Sensing.
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div>< img src='images/TMC24.png' alt="sym" width="80%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC2024</div>< img src='images/TMC24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [**mmFinger: Talk to Smart Devices with Finger Tapping Gesture**](https://xwang.github.io/docs/TMC24.pdf)
@@ -54,21 +55,19 @@ Xuan Wang, Tong Liu, **Chao Feng**, Dingyi Fang, Xiaojiang Chen
 
 **IEEE TMC 2024 (CCF A)**
 
-- mmWave Sensing.
+
+- Backscatter.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/iot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIoT</div><img src='images/iot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AllSpark: Enabling Long-Range Backscatter for Vehicle-to-Infrastructure Communication](https://xwang.github.io/docs/iot-allspark.pdf)
 
 **Xuan Wang**,Xin Kou, Haoyu Li, Fuwei Wang , Dingyi Fang, Yunfei Ma, and Xiaojiang Chen
 
-- Backscatter.
-</div>
-</div>
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

@@ -61,6 +61,13 @@ Xuerong Zhao, Xuan Wang, Jian Wu, **Chao Feng**, Dingyi Fang, Xiaojiang Chen, Zh
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIoT</div><img src='images/iot.png' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**AllSpark: Enabling Long-Range Backscatter for Vehicle-to-Infrastructure Communication**](https://xwkate.github.io/docs/iot-allspark.pdf)
+
+**Xuan Wang**, Xin Kou, Haoyu Li, Fuwei Wang , Dingyi Fang, Yunfei Ma, and Xiaojiang Chen
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGCOMM 2025</div>< img src='images/MetaAI.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">

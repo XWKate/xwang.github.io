@@ -64,7 +64,7 @@ Xuerong Zhao, **Xuan Wang**, Jian Wu, Chao Feng, Dingyi Fang, Xiaojiang Chen, Zh
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rf-CM: Cross-modal Framework for Rf-enabled Few-shot Human Activity Recognition](https://xwkate.github.io/Papers/mmFinger.pdf)
+[Rf-CM: Cross-modal Framework for Rf-enabled Few-shot Human Activity Recognition](https://xwkate.github.io/Papers/Ubicomp2023-RF-CM.pdf)
 
 **Xuan Wang**, Tong Liu, Chao Feng, Dingyi Fang, Xiaojiang Chen
 

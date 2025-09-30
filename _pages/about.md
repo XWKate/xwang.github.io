@@ -56,7 +56,8 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 Xuerong Zhao, **Xuan Wang**, Jian Wu, Chao Feng, Dingyi Fang, Xiaojiang Chen, Zheng Wang
 
 **ACM Ubicomp 2025 (CCF A)**
-
+</div>
+</div>
 
 
 

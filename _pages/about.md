@@ -47,7 +47,8 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 # 📝 Publications 
 
 ## 🗞️ Conference
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2025</div><img src='images/SpikeTouch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2025</div><img src='images/SpikeTouch.png' alt="sym" width="100%">
+</div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpikeTouch: Optimizing Spike Neural Networks for Tactile Perception](https://xwkate.github.io/docs/TMC24-mmFinger.pdf)
@@ -56,8 +57,7 @@ Xuerong Zhao, **Xuan Wang**, Jian Wu, Chao Feng, Dingyi Fang, Xiaojiang Chen, Zh
 
 **ACM Ubicomp 2025 (CCF A)**
 
-</div>
-</div>
+
 
 
 

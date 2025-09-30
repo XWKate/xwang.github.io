@@ -51,7 +51,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[SpikeTouch: Optimizing Spike Neural Networks for Tactile Perception](https://xwkate.github.io/docs/TMC24-mmFinger.pdf)
+[SpikeTouch: Optimizing Spike Neural Networks for Tactile Perception](https://xwkate.github.io/Papers/mmFinger.pdf)
 
 Xuerong Zhao, **Xuan Wang**, Jian Wu, Chao Feng, Dingyi Fang, Xiaojiang Chen, Zheng Wang
 

@@ -73,6 +73,20 @@ Xuerong Zhao, **Xuan Wang**, Jian Wu, Chao Feng, Dingyi Fang, Xiaojiang Chen, Zh
 </div>
 
 
+## 📑 Journal
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2024</div><img src='images/TMC24.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[mmFinger: Talk to Smart Devices with Finger Tapping Gesture](https://xwkate.github.io/Papers/mmFinger.pdf)
+
+**Xuan Wang**, Tong Liu, Chao Feng, Dingyi Fang, Xiaojiang Chen
+
+**IEEE TMC 2024 (CCF A)**
+</div>
+</div>
+
 
 
 # 🎖 Honors and Awards
@@ -87,6 +101,5 @@ Xuerong Zhao, **Xuan Wang**, Jian Wu, Chao Feng, Dingyi Fang, Xiaojiang Chen, Zh
 - *2024.01-2026.12*, Principal Investigator, National Natural Science Foundation of China, No. 62302392.
 
 
-# 💻 Internship
 
 # 👨‍💻 Students

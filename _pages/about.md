@@ -40,7 +40,7 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 - *2025.09*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **SpikeTouch** is accepted by **ACM Ubicomp 2025**.
 - *2025.07*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **MetaAI** is accepted by **ACM SIGCOMM 2025**.
 - *2025.06*:  Our work **RISensing** is accepted by **IEEE TMC 2025**.
-- *2024.12*:  Our work **RF-Sauron** is accepted by **IEEE IoTJ 2025**. 
+
 
 
 
@@ -56,6 +56,19 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 Xuerong Zhao, **Xuan Wang**, Jian Wu, Chao Feng, Dingyi Fang, Xiaojiang Chen, Zheng Wang
 
 **ACM Ubicomp 2025 (CCF A)**
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2023</div><img src='images/ubi23.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rf-CM: Cross-modal Framework for Rf-enabled Few-shot Human Activity Recognition](https://xwkate.github.io/Papers/mmFinger.pdf)
+
+**Xuan Wang**, Tong Liu, Chao Feng, Dingyi Fang, Xiaojiang Chen
+
+**ACM Ubicomp 2023 (CCF A)**
 </div>
 </div>
 

@@ -47,6 +47,14 @@ I received my PhD degree in 2022 from Northwest University, under the supervisio
 # 📝 Publications 
 
 ## 🗞️ Conference
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2025</div>< img src='images/iot.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 

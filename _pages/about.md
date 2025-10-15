@@ -55,11 +55,22 @@ Xuerong Zhao, **Xuan Wang**, Jian Wu, Chao Feng, Dingyi Fang, Xiaojiang Chen, Zh
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rf-CM: Cross-modal Framework for Rf-enabled Few-shot Human Activity Recognition](https://xwkate.github.io/Papers/Ubicomp2023-RF-CM.pdf)
+[RF-CM: Cross-modal Framework for Rf-enabled Few-shot Human Activity Recognition](https://xwkate.github.io/Papers/Ubicomp2023-RF-CM.pdf)
 
 **Xuan Wang**, Tong Liu, Chao Feng, Dingyi Fang, Xiaojiang Chen
 
 **ACM Ubicomp 2023 (CCF A)**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MSN’17</div><img src='images/msn17.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gesture Recognition System Based on RFID](https://xwkate.github.io/Papers/MSN17_RFID.pdf)
+
+**Xuan Wang**, Xin Kou, Zifan Wang, Lanqing Wang, Baoying Liu, and Feng Chen.
+**MSN 2017**
 </div>
 </div>
 
@@ -78,15 +89,27 @@ Xuerong Zhao, **Xuan Wang**, Jian Wu, Chao Feng, Dingyi Fang, Xiaojiang Chen, Zh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIot 2022</div><img src='images/iot.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIoT 2022</div><img src='images/iot.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[AllSpark: Enabling Long-Range Backscatter for Vehicle-to-Infrastructure Communication](https://xwkate.github.io/Papers/mmFinger.pdf)
+[AllSpark: Enabling Long-Range Backscatter for Vehicle-to-Infrastructure Communication](https://xwkate.github.io/Papers/IoT_allspark.pdf)
 
 **Xuan Wang**,  Xin Kou, Haoyu Li, Fuwei Wang, Dingyi Fang, Yunfei Ma, Xiaojiang Chen
 
 **IEEE  Internet of Things Journal  2022 (SCI Q1)**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIoT 2022</div><img src='images/TCCN22.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hybrid HMM Decoder for Convolutional Codes by Joint Trellis-Like Structure and Channel Prior](https://xwkate.github.io/Papers/TCCN-_Decoder.pdf)
+
+**Xuan Wang**,  Xin Kou, Haoyu Li, Fuwei Wang, Dingyi Fang, Yunfei Ma, Xiaojiang Chen
+
+** IEEE Transactions on Cognitive Communications and Networking 2022 (SCI Q2)**
 </div>
 </div>
 

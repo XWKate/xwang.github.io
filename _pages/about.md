@@ -102,7 +102,7 @@ Xuerong Zhao, **Xuan Wang (Co-first author)**, Jian Wu, Chao Feng, Dingyi Fang, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIoT 2022</div><img src='images/TCCN22.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCCN 2022</div><img src='images/TCCN22.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -115,16 +115,17 @@ Xuerong Zhao, **Xuan Wang (Co-first author)**, Jian Wu, Chao Feng, Dingyi Fang, 
 </div>
 
 # 🎖 Honors and Awards
-- *2018.11*:  **Best Poster Award**,  **Sensys 2018**. 
+- *2023.11*:  **2024 ACM China Council Xi'an Chapter Doctoral Dissertation Award**. 
 
 
 # 📖 Educations
-- *2017.09 - 2022.06*, PhD in Software Engineering (Supervisor: Xiaojiang Chen), Northwest University.
-- *2016.09 - 2017.06*, Master in Communication Engineering (Supervisor: Xiaojiang Chen), Northwest University. 
+- *2016.09 - 2023.12*, Master and PhD in Computer Application Technology (Supervisor: Dingyi Fang & Xiaojiang Chen), Northwest University.
+- *2012.09 - 2016.06*, Bachelor in Internet of Things, Northwest University. 
 
 # 💰 Grants
-- *2024.01-2026.12*, Principal Investigator, National Natural Science Foundation of China, No. 62302392.
+- *2024.01-2026.12*, National Natural Science Foundation of China,  No. 62502384, Principal Investigator.
 
+- *2.2025.01 - 2026.12*, Shaanxi Provincial Key Research and Development Program - International Cooperation General Project, 2025GH-YBXM-057, Principal Investigator
 
+- *2025-07 - 2026.12*, China Postdoctoral General Project (Region), 2025MD774132, Principal Investigator
 
-# 👨‍💻 Students

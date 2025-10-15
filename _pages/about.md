@@ -70,6 +70,7 @@ Xuerong Zhao, **Xuan Wang (Co-first author)**, Jian Wu, Chao Feng, Dingyi Fang, 
 [Gesture Recognition System Based on RFID](https://xwkate.github.io/Papers/MSN17_RFID.pdf)
 
 **Xuan Wang**, Xin Kou, Zifan Wang, Lanqing Wang, Baoying Liu, and Feng Chen.
+
 **MSN 2017**
 </div>
 </div>

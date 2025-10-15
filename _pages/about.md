@@ -18,30 +18,21 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-I received my PhD degree in 2022 from Northwest University, under the supervision of [Prof. Xiaojiang Chen](https://xjchen-nwu.github.io/xiaojiangchen.github.io/). I am currently an associate professor in the School of Computer Science and Technology at Northwest University.
-
-
-🔥 🔥 🔥 <span style="color:red;">  **Recruiting:** </span>  I am looking for self-motivated PhD, Master, and Undergraduate students to work on research projects in wireless networking and ubiquitous computing. I like interdisciplinary students, i.e., electronics, physics, computer science, communication engineering, and chemistry majors. If interested, don't hesitate to get in touch with [chaofeng@nwu.edu.cn](mailto:chaofeng@nwu.edu.cn). 
-
-
+I received my PhD degree in 2023.12 from Northwest University, under the supervision of [Prof. Dingyi Fang and Prof. Xiaojiang Chen]. I am currently an postdoctoral in the School of Computer at Northwest University.
 
 
 # 🔎 Research Interests
-- **Battery-free Wireless Sensing:** Wi-Fi Sensing, RFID Sensing, mmWave Sensing, Acoustic Sensing, and any kind of sensing, etc.
+- **Non-contact Wireless Sensing:** Wi-Fi Sensing, RFID Sensing, mmWave Sensing, etc.
   
-- **Intelligent Surfaces for Wireless Communication and Sensing:** Smart Metasurface and smart antenna to enhance communication and sensing.
+- **Intelligent Surfaces for Wireless Communication:** Smart Metasurface and smart antenna to enhance communication and sensing.
 
-- **AI for Mobile Health Sensing:** new digital biomarker discovery, contactless health monitoring, etc., to advance personalized medicine.
+- **Low-power perception based on brain-inspired computing.
   
 - **Material Science for Wireless Sensing:** Integrating material science to augment wireless sensing capabilities. 
 
 
 # 🔥 News
 - *2025.09*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **SpikeTouch** is accepted by **ACM Ubicomp 2025**.
-- *2025.07*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **MetaAI** is accepted by **ACM SIGCOMM 2025**.
-- *2025.06*:  Our work **RISensing** is accepted by **IEEE TMC 2025**.
-
-
 
 
 # 📝 Publications 
@@ -87,7 +78,17 @@ Xuerong Zhao, **Xuan Wang**, Jian Wu, Chao Feng, Dingyi Fang, Xiaojiang Chen, Zh
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIot 2022</div><img src='images/iot.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
 
+[AllSpark: Enabling Long-Range Backscatter for Vehicle-to-Infrastructure Communication](https://xwkate.github.io/Papers/mmFinger.pdf)
+
+**Xuan Wang**,  Xin Kou, Haoyu Li, Fuwei Wang, Dingyi Fang, Yunfei Ma, Xiaojiang Chen
+
+**IEEE  Internet of Things Journal  2022 (SCI Q1)**
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2018.11*:  **Best Poster Award**,  **Sensys 2018**. 

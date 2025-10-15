@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-I received my PhD degree in 2023.12 from Northwest University, under the supervision of [Prof. Dingyi Fang and Prof. Xiaojiang Chen]. I am currently an postdoctoral in the School of Computer at Northwest University.
+I received my PhD degree in 2023.12 from Northwest University, under the supervision of Prof. Dingyi Fang and Prof. Xiaojiang Chen. I am currently an postdoctoral in the School of Computer at Northwest University.
 
 
 # 🔎 Research Interests
@@ -26,7 +26,7 @@ I received my PhD degree in 2023.12 from Northwest University, under the supervi
   
 - **Intelligent Surfaces for Wireless Communication:** Smart Metasurface and smart antenna to enhance communication and sensing.
 
-- **Low-power perception based on brain-inspired computing.
+- **Low-power perception based on brain-inspired computing.**
   
 - **Material Science for Wireless Sensing:** Integrating material science to augment wireless sensing capabilities. 
 
@@ -108,14 +108,14 @@ Xuerong Zhao, **Xuan Wang (Co-first author)**, Jian Wu, Chao Feng, Dingyi Fang, 
 
 [Hybrid HMM Decoder for Convolutional Codes by Joint Trellis-Like Structure and Channel Prior](https://xwkate.github.io/Papers/TCCN-_Decoder.pdf)
 
-**Xuan Wang**,  Xin Kou, Haoyu Li, Fuwei Wang, Dingyi Fang, Yunfei Ma, Xiaojiang Chen
+Haoyu Li, **Xuan Wang**, Tong Liu, Dingyi Fang, Baoying Liu.
 
-** IEEE Transactions on Cognitive Communications and Networking 2022 (SCI Q2)**
+**IEEE Transactions on Cognitive Communications and Networking 2022 (SCI Q2)**
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2023.11*:  **2024 ACM China Council Xi'an Chapter Doctoral Dissertation Award**. 
+- *2024*:  **2024 ACM China Council Xi'an Chapter Doctoral Dissertation Award**. 
 
 
 # 📖 Educations
@@ -125,7 +125,7 @@ Xuerong Zhao, **Xuan Wang (Co-first author)**, Jian Wu, Chao Feng, Dingyi Fang, 
 # 💰 Grants
 - *2024.01-2026.12*, National Natural Science Foundation of China,  No. 62502384, Principal Investigator.
 
-- *2.2025.01 - 2026.12*, Shaanxi Provincial Key Research and Development Program - International Cooperation General Project, 2025GH-YBXM-057, Principal Investigator
+- *2025.01-2026.12*, Shaanxi Provincial Key Research and Development Program - International Cooperation General Project, 2025GH-YBXM-057, Principal Investigator
 
-- *2025-07 - 2026.12*, China Postdoctoral General Project (Region), 2025MD774132, Principal Investigator
+- *2025-07-2026.12*, China Postdoctoral General Project (Region), 2025MD774132, Principal Investigator
 
